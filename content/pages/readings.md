@@ -65,7 +65,7 @@ Bakker, Bas, Giovanni Dell'Ariccia, et al. "[Policies for Macrofinancial Stabili
 
 De, Castro, M. R., et al. "[SAMBA: Stochastic Analytical Model with a Bayesian Approach](http://econpapers.repec.org/paper/bcbwpaper/239.htm)." Central Bank of Brazil, Research Department. (2011).
 
-Christiano, L., R. Motto, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Risk Shocks."](http://www.nber.org/papers/w18682) NBER Working Paper No. 18682. January 2013. 
+Christiano, L., R. Motto, et al. ["Risk Shocks."](http://www.nber.org/papers/w18682) NBER Working Paper No. 18682. January 2013. 
 
 Townsend, R. M. "[Insurance and Credit: Micro Financial Underpinnings for Entire Economies](http://www.robertmtownsend.net/content/insurance-and-credit-micro-financial-underpinnings-entire-economies)." IIES 50th Anniversary Lecture slides (annotated) (2012).
 
@@ -147,7 +147,7 @@ Buera, Franciso and Yongseok Shin. "[Financial Frictions and the Persistence of 
 
 Jeong, Hyeok, and R. M. Townsend. "[Sources of TFP Growth: Occupational Choice and Financial Deepening](http://dx.doi.org/10.1007/s00199-006-0201-8)." _Economic Theory_ 32, no. 1 (2007): 179–221.
 
-Coeurdacier, N., S. Guibaud, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Credit Constraints and Growth in a Global Economy](https://www.jstor.org/stable/43821359?seq=1#page_scan_tab_contents)."  London School of Economics, 2013.
+Coeurdacier, N., S. Guibaud, et al. "[Credit Constraints and Growth in a Global Economy](https://www.jstor.org/stable/43821359?seq=1#page_scan_tab_contents)."  London School of Economics, 2013.
 
 Jappelli, T., and M. Pagano. "[Saving, Growth, and Liquidity Constraints](http://www.jstor.org/stable/2118429)." _The Quarterly Journal of Economics_ 109, no. 1 (1994): 83–109.
 
@@ -157,7 +157,7 @@ Blaum, J. "[Wealth Inequality and the Losses from Financial Frictions](http://id
 
 Banerjee, A. V., and B. Moll. "[Why Does Misallocation Persist?](http://dx.doi.org/10.1257/mac.2.1.189)" _American Economic Journal: Macroeconomics_ 2, no. 1 (2010): 189–206.
 
-Moll, Benjamin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?" (PDF)](http://www.princeton.edu/~moll/TFPFF.pdf).  Princeton University, 2013.
+Moll, Benjamin. ["Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?" (PDF)](http://www.princeton.edu/~moll/TFPFF.pdf).  Princeton University, 2013.
 
 
 {{< tdclose >}}
@@ -219,7 +219,7 @@ Antràs, P., and R. J. Caballero. "[Trade and Capital Flows: A Financial Frictio
 
 Christiano, L., M. Eichenbaum., et al. "[The Effects of Monetary Policy Shocks: Evidence from the Flow of Funds](http://www.jstor.org/sici?sici=0034-6535%28199602%2978%3A1%3C16%3ATEOMPS%3E2.0.CO%3B2-M&origin=bc)." _Review of Economics and Statistics_ 78, no. 1 (1996): 16–34.
 
-Ridhwan, M., Henri L. F. de Groot, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Regional Impact of Monetary Policy in Indonesia." (PDF)](http://papers.tinbergen.nl/11081.pdf) Ti 2011.
+Ridhwan, M., Henri L. F. de Groot, et al. ["The Regional Impact of Monetary Policy in Indonesia." (PDF)](http://papers.tinbergen.nl/11081.pdf) Ti 2011.
 
 Cagetti, Marco. "[Overview of Flow of Funds Accounts](http://www.cfsp.org/publications/slides/overview-flow-funds-accounts#.Ui144T_hc0k)."
 
@@ -229,7 +229,7 @@ Moore, Tomoe and Christopher Green. "[Empirical Application of a Flow of Funds M
 
 Guerrieri, V., and G. Lorenzoni. "[Credit Crises, Precautionary Savings, and the Liquidity Trap](http://www.nber.org/papers/w17583)." NBER Working Paper No. 17583. November 2011. 
 
-Piazzesi, M., and M. Schneider. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Inflation and the Price of Real Assets."](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4167) Staff Report 423. The Federal Reserve Bank of Minneapolis, April 14, 2009. 
+Piazzesi, M., and M. Schneider. ["Inflation and the Price of Real Assets."](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4167) Staff Report 423. The Federal Reserve Bank of Minneapolis, April 14, 2009. 
 
 "[CFSP Flow of Funds Accounts and Savings Workshop](http://www.cfsp.org/research/workshops/flow-funds-accounts-and-savings-workshop)." April 2012, conference summary
 
@@ -293,7 +293,7 @@ Samphantharak, K., and R. M. Townsend. ["Risk and Return in Village Economies." 
 
 Calvet, L., J. Campbell, et al. "[Down or Out: Assessing the Welfare Costs of Household Investment Mistakes](http://www.nber.org/papers/w12030)." _Journal of Political Economy_ 115, no. 5 (2007): 707–47.
 
-Rampini, A., A. Sufi, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Dynamic Risk Management." (PDF)](http://areas.kenan-flagler.unc.edu/finance/JHfinance/Documents/Rampini%20Sufi%20Viswanathan%202011.pdf) (2011).
+Rampini, A., A. Sufi, et al. ["Dynamic Risk Management." (PDF)](http://areas.kenan-flagler.unc.edu/finance/JHfinance/Documents/Rampini%20Sufi%20Viswanathan%202011.pdf) (2011).
 
 Samphantharak, K., and R. M. Townsend. "Understanding Consumption and Income Volatility in Village Economies." 2013.
 
@@ -339,7 +339,7 @@ Labor supply: Intensive and extensive margin in villages to families, lotteries,
 {{< tdopen >}}
 
 
-Bonhomme, Chiappori, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sharing Wage Risk." (PDF)](http://www.robertmtownsend.net/sites/default/files/files/papers/working_papers/SharingWageRisk.pdf) Working Paper.
+Bonhomme, Chiappori, et al. ["Sharing Wage Risk." (PDF)](http://www.robertmtownsend.net/sites/default/files/files/papers/working_papers/SharingWageRisk.pdf) Working Paper.
 
 ### Related Literature
 
@@ -381,7 +381,7 @@ Karaivanov, Alexander and Robert M. Townsend. "[Dynamic Financial Constraints: D
 
 Ligon, E., J. P. Thomas, et al. "[Informal Insurance Arrangements with Limited Commitment: Theory and Evidence from Village Economies](http://dx.doi.org/10.1111/1467-937X.00204)." _Review of Economic Studies_ 69, no. 1 (2002): 209–44.
 
-Morten, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Temporary Migration and Endogenous Risk-Sharing in Village India." (PDF)](http://www.dartmouth.edu/~neudc2012/docs/paper_112.pdf). Yale University, 2012.
+Morten, M. "[Temporary Migration and Endogenous Risk-Sharing in Village India." (PDF)](http://www.dartmouth.edu/~neudc2012/docs/paper_112.pdf). Yale University, 2012.
 
 
 {{< tdclose >}}

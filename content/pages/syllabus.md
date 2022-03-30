@@ -18,9 +18,9 @@ This class contributes to the fulfillment of requirements for the Development fi
 
 _14.121 Microeconomic Theory I_
 
-[_14.451 Macroeconomic Theory I_](/courses/14-451-macroeconomic-theory-i-spring-2007/)
+[_14.451 Macroeconomic Theory I_](/courses/14-451-macroeconomic-theory-i-spring-2007)
 
-[_14.382 Econometrics I_](/courses/14-382-econometrics-spring-2017/)
+[_14.382 Econometrics I_](/courses/14-382-econometrics-spring-2017)
 
 Requirements
 ------------
